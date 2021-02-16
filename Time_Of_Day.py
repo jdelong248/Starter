@@ -1,3 +1,5 @@
+#This is my First code on my own. I figured I would start out with something simple.  
+
 time=input("What time of day is it? ")
 
 if len(time)==4:
